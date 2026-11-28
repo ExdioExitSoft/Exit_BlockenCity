@@ -1200,11 +1200,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5259960857800187925, guid: 20044245472c5af4391cc84c81c06ac0, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.99998206
       objectReference: {fileID: 0}
     - target: {fileID: 5259960857800187925, guid: 20044245472c5af4391cc84c81c06ac0, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0.000078082085
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7260284161382141463, guid: 20044245472c5af4391cc84c81c06ac0, type: 3}
       propertyPath: m_SizeDelta.y
@@ -1212,7 +1212,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7260284161382141463, guid: 20044245472c5af4391cc84c81c06ac0, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.00019836426
+      value: 0.000015258789
       objectReference: {fileID: 0}
     - target: {fileID: 7785272834520010885, guid: 20044245472c5af4391cc84c81c06ac0, type: 3}
       propertyPath: m_text
@@ -2520,11 +2520,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5259960857800187925, guid: 20044245472c5af4391cc84c81c06ac0, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.9999822
       objectReference: {fileID: 0}
     - target: {fileID: 5259960857800187925, guid: 20044245472c5af4391cc84c81c06ac0, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0.000078082085
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7260284161382141463, guid: 20044245472c5af4391cc84c81c06ac0, type: 3}
       propertyPath: m_SizeDelta.y
@@ -2532,7 +2532,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7260284161382141463, guid: 20044245472c5af4391cc84c81c06ac0, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.00019836426
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7785272834520010885, guid: 20044245472c5af4391cc84c81c06ac0, type: 3}
       propertyPath: m_text
@@ -2993,11 +2993,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5259960857800187925, guid: 20044245472c5af4391cc84c81c06ac0, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0.9999822
       objectReference: {fileID: 0}
     - target: {fileID: 5259960857800187925, guid: 20044245472c5af4391cc84c81c06ac0, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0.000078082085
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7260284161382141463, guid: 20044245472c5af4391cc84c81c06ac0, type: 3}
       propertyPath: m_SizeDelta.y
@@ -3005,7 +3005,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7260284161382141463, guid: 20044245472c5af4391cc84c81c06ac0, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.00019836426
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7785272834520010885, guid: 20044245472c5af4391cc84c81c06ac0, type: 3}
       propertyPath: m_text
@@ -7775,11 +7775,11 @@ MonoBehaviour:
   - {fileID: 2210021461251955887}
   - {fileID: 1643604877143321273}
   - {fileID: 4223299392088107530}
-  factionNameKRText: {fileID: 0}
-  factionNameENText: {fileID: 0}
-  factionDescriptionText: {fileID: 0}
+  factionNameKRText: {fileID: 7677950009478662969}
+  factionNameENText: {fileID: 8436911549353879776}
+  factionDescriptionText: {fileID: 8759371949724273676}
   factionSubDescriptionText: {fileID: 465986332232019781}
-  factionFoundingDateText: {fileID: 0}
+  factionFoundingDateText: {fileID: 4036984587678263503}
   factionIconImage: {fileID: 5167319414081255520}
   characterDetailPage: {fileID: 7273190204415806137}
   characterButtons:
@@ -18148,7 +18148,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0.00021362305}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: -199.89}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &5057448842358931788
@@ -21915,7 +21915,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 7647222051238996942}
   m_Direction: 2
   m_Value: 0
-  m_Size: 0.99992204
+  m_Size: 0.99998206
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -23575,7 +23575,7 @@ RectTransform:
   m_Father: {fileID: 7070804203569433051}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 0.99992204}
+  m_AnchorMax: {x: 1, y: 0.99998206}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
